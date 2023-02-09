@@ -3,6 +3,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=KraleOfRIVIA&theme=onedark&show_icons=true&hide_rank=true&custom_title=Stats&count_private=true&hide_border=true&hide=issues&line_height=24&bg_color=0d1117" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KraleOfRIVIA&layout=compact&theme=onedark&count_private=true&hide_border=true&bg_color=0d1117" height="150" alt="languages graph"  />
 </div>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" width="59" alt="python logo"  />
+  //<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg](https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" height="45" width="59" alt="matlab logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c++/c++-original.svg" height="45" width="59" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" width="59" alt="numpy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="45" width="59" alt="kotlin logo"  />
+</div>
 <!--
 **KraleOfRIVIA/KraleOfRIVIA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

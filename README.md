@@ -3,6 +3,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=KraleOfRIVIA&theme=onedark&show_icons=true&hide_rank=true&custom_title=Stats&count_private=true&hide_border=true&hide=issues&line_height=24&bg_color=0d1117" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KraleOfRIVIA&layout=compact&theme=onedark&count_private=true&hide_border=true&bg_color=0d1117" height="150" alt="languages graph"  />
 </div>
+![Jokes Card](https://readme-jokes.vercel.app/api)
 <!--
 **KraleOfRIVIA/KraleOfRIVIA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

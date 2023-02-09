@@ -8,7 +8,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" height="45" width="59" alt="matlab logo"  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/unrealengine/unrealengine-original.svg" height="45" width="59" alt="unrealengine logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" width="59" alt="numpy logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="45" width="59" alt="kotlin logo"  />
+  <img src="https://banner2.cleanpng.com/20180803/sjj/-5b73a66ac42051.89037304153430589880332307.jpg" height="45" width="59" alt="cpp logo"  />
 </div>
 <!--
 **KraleOfRIVIA/KraleOfRIVIA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -5,8 +5,8 @@
 </div>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" width="59" alt="python logo"  />
-  //<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg](https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" height="45" width="59" alt="matlab logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c++/c++-original.svg" height="45" width="59" alt="c logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" height="45" width="59" alt="matlab logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" width="59" alt="c logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" width="59" alt="numpy logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="45" width="59" alt="kotlin logo"  />
 </div>

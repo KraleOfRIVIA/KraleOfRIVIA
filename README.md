@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KraleOfRIVIA&theme=onedark&show_icons=true&hide_rank=true&custom_title=Stats&count_private=true&hide_border=true&hide=issues&line_height=24&bg_color=0d1117" height="150" alt="stats graph"  />
+  <img src=[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KraleOfRIVIA&layout=compact&theme=onedark&count_private=true&hide_border=true&bg_color=0d1117" height="150" alt="languages graph"  />
 </div>
 <div align="center">

@@ -1,9 +1,5 @@
 ### Hi there 👋
 <div align="center">
-  <img src=[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KraleOfRIVIA&layout=compact&theme=onedark&count_private=true&hide_border=true&bg_color=0d1117" height="150" alt="languages graph"  />
-</div>
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" width="59" alt="python logo"  />
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" height="45" width="59" alt="matlab logo"  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/unrealengine/unrealengine-original.svg" height="45" width="59" alt="unrealengine logo"  />

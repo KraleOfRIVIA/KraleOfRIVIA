@@ -1,10 +1,11 @@
 ### Hi there 👋
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" height="45" width="59" alt="matlab logo"  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/unrealengine/unrealengine-original.svg" height="45" width="59" alt="unrealengine logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" height="45" width="59" alt="cpp logo"  />
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="45" width="59" alt="javascript logo"  />
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="45" width="59" alt="typescript logo"  />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" height="45" width="59" alt="cpp logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height="45" width="59" alt="react logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mobx/mobx-original.svg" height="45" width="59" alt="mobx logo"  />
 </div>
 <!--
 **KraleOfRIVIA/KraleOfRIVIA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -4,6 +4,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" height="45" width="59" alt="matlab logo"  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/unrealengine/unrealengine-original.svg" height="45" width="59" alt="unrealengine logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" width="59" alt="numpy logo"  />
+   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="45" width="59" alt="javascript logo"  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" height="45" width="59" alt="cpp logo"  />
 </div>
 <!--

@@ -1,7 +1,5 @@
 ### Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KraleOfRIVIA&layout=compact&theme=radical)
 
-And here are some more stats about the programming languages I use in my repositories:
 
 ![KraleOfRIVIA's GitHub stats](https://github-readme-stats.vercel.app/api?username=KraleOfRIVIA&show_icons=true&theme=radical)
 

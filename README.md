@@ -18,23 +18,41 @@
 ---
 
 ### 🚀 Чем занимаюсь
-- Разрабатываю web- и mobile-приложения на **React / Next.js / React Native**
-- Пишу backend-часть и API под fullstack-сценарии
-- Забочусь о DX, производительности и масштабируемости
-- Работаю с локализацией (**i18n**) и кросс-платформенностью
+- Разрабатываю **web & mobile** на **React / Next.js / React Native (Expo)**
+- Выстраиваю состояние и данные: **Effector + TanStack**
+- Делаю fullstack-фичи: API, интеграции, работа с **Postgres**
+- Забочусь о DX, производительности, i18n и масштабируемости
 
 ---
 
 ### 🛠️ Стек
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,postgres,bun,expo&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,postgres,bun,docker&theme=dark" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=000"/>
   <img src="https://img.shields.io/badge/Effector-7A5AF8?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=000"/>
   <img src="https://img.shields.io/badge/i18n-26A69A?style=for-the-badge"/>
+</p>
+
+---
+
+### 📊 Summary Cards
+<!-- темы: github_dark / tokyonight / dracula / monokai и т.д. -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KraleOfRIVIA&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KraleOfRIVIA&theme=github_dark" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KraleOfRIVIA&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KraleOfRIVIA&theme=github_dark" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KraleOfRIVIA&theme=github_dark&utcOffset=2" />
 </p>
 
 ---

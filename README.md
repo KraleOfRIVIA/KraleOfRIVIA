@@ -40,18 +40,6 @@
 
 ---
 
-### 📈 GitHub статистика
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KraleOfRIVIA&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KraleOfRIVIA&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KraleOfRIVIA&theme=radical&hide_border=true" />
-</p>
-
----
-
 ### 🧠 Сейчас в фокусе
 - Архитектура приложений на **Effector**
 - Оптимизация Next.js (Server Components, кеши)

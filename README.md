@@ -45,16 +45,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KraleOfRIVIA&theme=github_dark" />
 </p>
 
-<p align="center">
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KraleOfRIVIA&theme=github_dark" />
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KraleOfRIVIA&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KraleOfRIVIA&theme=github_dark" />
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KraleOfRIVIA&theme=github_dark&utcOffset=2" />
-</p>
-
 ---
 
 <p align="center">

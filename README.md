@@ -10,7 +10,7 @@
   <a href="https://t.me/KraleOfRIVIA">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:kraleofrivia@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -19,7 +19,6 @@
 
 ### 🚀 Чем занимаюсь
 - Разрабатываю web- и mobile-приложения на **React / Next.js / React Native**
-- Строю архитектуру на **Effector + TanStack**
 - Пишу backend-часть и API под fullstack-сценарии
 - Забочусь о DX, производительности и масштабируемости
 - Работаю с локализацией (**i18n**) и кросс-платформенностью
@@ -37,14 +36,6 @@
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=000"/>
   <img src="https://img.shields.io/badge/i18n-26A69A?style=for-the-badge"/>
 </p>
-
----
-
-### 🧠 Сейчас в фокусе
-- Архитектура приложений на **Effector**
-- Оптимизация Next.js (Server Components, кеши)
-- Кросс-платформенные приложения (Web + Mobile)
-- Алгоритмы и системное мышление
 
 ---
 

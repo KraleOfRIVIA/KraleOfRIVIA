@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я KraleOfRIVIA 👋</h1>
+<h1 align="center">Hi 👋</h1>
 
 <p align="center">
   Fullstack & Cross-platform разработчик  
@@ -14,15 +14,6 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
----
-
-### 🚀 Чем занимаюсь
-- Разрабатываю **web & mobile** на **React / Next.js / React Native (Expo)**
-- Выстраиваю состояние и данные: **Effector + TanStack**
-- Делаю fullstack-фичи: API, интеграции, работа с **Postgres**
-- Забочусь о DX, производительности, i18n и масштабируемости
-
 ---
 
 ### 🛠️ Стек
@@ -38,15 +29,7 @@
 </p>
 
 ---
-
-### 📊 Summary Cards
 <!-- темы: github_dark / tokyonight / dracula / monokai и т.д. -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KraleOfRIVIA&theme=github_dark" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KraleOfRIVIA&style=flat&color=orange"/>
 </p>
